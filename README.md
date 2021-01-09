@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - I’m currently working at KumuSoft Solutions Limited.
-- I’m currently learning Flutter, JavaScript, Node.Js,Python.
+- I’m currently learning Flutter, JavaScript, Node.Js/Typesscript,Python.
 - I work with android (Kotlin/java) for mobile software development
-- How to reach me: jabajnan8@gmail.com
+- How to reach me:  email:jabajnan8@gmail.com
+- website : jabahum-coder.github.io
 
 
 <p>Hi, I'm Jabar Jeremy. SDE at @Kumusoft.
