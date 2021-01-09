@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m currently working at KumuSoft Solutions Limited.
-- I’m currently learning Flutter, JavaScript, Node.Js/Typesscript,Python.
+- I’m currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
 - How to reach me:  email:jabajnan8@gmail.com
 - website : jabahum-coder.github.io
