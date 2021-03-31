@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I’m currently working at Kumusoft Solutions Limited.
 - I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
 - I'm currently developing image and facial recorgnition  systems to help in the fight against Corana virus.These are symptom detection systems
