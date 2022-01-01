@@ -2,9 +2,6 @@
 
 - I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
-- I'm currently developing image and facial recorgnition  systems to help in the fight against Corana virus.These are symptom detection systems
-- I have a Covid Status app its good enough ur welcome to contribute to it https://github.com/jabahum-coder/CovidStatusApp/releases/tag/v1.0.0
-  and the code https://github.com/jabahum-coder/CovidStatusApp
 - How to reach me:  email:jabajnan8@gmail.com
 - website : jabahum-coder.github.io
 
