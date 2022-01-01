@@ -16,4 +16,4 @@ height=25></a> <a href="https://www.linkedin.com/in/lamsanskar/"><img src="https
 height=25></a> <a href="https://medium.com/@theindianappguy"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p> -->
 
 <h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=jabahum-coder&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats"></p>
