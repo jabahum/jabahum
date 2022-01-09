@@ -1,11 +1,11 @@
 ## Hi there 👋 I am Jabar Jeremy
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
-- How to reach me:  email:jabajnan8@gmail.com
 
 
 ## My Socials:
