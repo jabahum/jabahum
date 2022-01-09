@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jabar Jeremy
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
 
@@ -7,9 +7,7 @@
 - I work with android (Kotlin/java) for mobile software development
 - How to reach me:  email:jabajnan8@gmail.com
 
-
-<p>Hi, I'm Jabar Jeremy. SDE.
-
+<br/>
 <p>
   <a href="https://www.twitter.com/jaba_hum"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" 
 height=25>
