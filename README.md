@@ -15,10 +15,10 @@ height=25>
 </p>
   
 ## My Github Stats:
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats">
   <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&theme=tokyonight">
-</p> 
+</p>  -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&layout=compact)](https://github.com/jabahum/github-readme-stats)
 
 
