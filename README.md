@@ -24,7 +24,8 @@ height=25></a> <a href="https://medium.com/@theindianappguy"><img src="https://i
 <br />
 
 <h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats"></p> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 
 ## Languages and Tools:
