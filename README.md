@@ -19,6 +19,7 @@ height=25>
   <img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats">
   <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&theme=tokyonight">
 </p>  -->
+[![Jabahum's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabahum)](https://github.com/jabahum/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&layout=compact)](https://github.com/jabahum/github-readme-stats)
 
 
