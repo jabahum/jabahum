@@ -30,6 +30,7 @@ height=25>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats">
   <img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&theme=tokyonight">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p> 
 
 
