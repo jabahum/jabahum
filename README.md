@@ -1,8 +1,7 @@
 ## Hi there 👋 I am Jabar Jeremy
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabahum)](https://github.com/jabahum/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabahum&show_icons=true&theme=radical)
 
 - I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
