@@ -14,4 +14,4 @@ height=25></a> <a href="https://medium.com/@theindianappguy"><img src="https://i
 
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats"></p>
-<p><img src = "(https://github.com/anuraghazra/github-readme-stats)"></p>
+<p><img src = "https://github.com/jabahum/github-readme-stats"></p>
