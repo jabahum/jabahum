@@ -3,7 +3,6 @@
 - I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
 - I work with android (Kotlin/java) for mobile software development
 - How to reach me:  email:jabajnan8@gmail.com
-- website : jabahum.github.io
 
 
 <p>Hi, I'm Jabar Jeremy. SDE.
