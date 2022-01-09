@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Jabar Jeremy
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
 
