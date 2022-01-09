@@ -16,13 +16,6 @@ height=25>
    
 </p>
   
-## Find me on:
-<p align="center">
- <a href="https://jabahum.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
-</p>
-
-<br />
-
 ## My Github Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jabahum&amp;show_icons=true" alt="GitHub Stats">
