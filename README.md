@@ -2,8 +2,8 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
 
-- I currently work with Flutter(Dart), JavaScript, Node.Js/Typesscript,Python(Flask).
-- I work with android (Kotlin/java) for mobile software development
+- I currently work with Flutter(Dart),Javascript(Node.Js|Typescript),Python(Flask).
+- I work with android (Kotlin/java) for mobile development
 
 
 ## My Socials:
