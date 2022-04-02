@@ -16,9 +16,6 @@ height=25>
   
 ## My Github Stats:
 [![Jabahum's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabahum)](https://github.com/jabahum/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabahum&layout=compact)](https://github.com/jabahum/github-readme-stats)
-
-
 
 ## Languages and Tools:
 <p align="center">
