@@ -12,19 +12,6 @@ I’m a **full-stack developer** specializing in building scalable web and mobil
 
 I’m passionate about designing secure, maintainable solutions that make a real-world impact — especially in digital health. I actively contribute to **OpenMRS**, supporting better healthcare through open-source technology.
 
----
-
-### 🌱 Open to collaborating on:
-- Digital health solutions
-- Community platforms
-- Open-source projects
-
-### 🤝 Let’s connect!
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email]
-
----
-
 *Building technology that matters.* 🚀
 
 
