@@ -1,9 +1,31 @@
 ## Hi there 👋 I am Jabar Jeremy
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=jabahum.jabahum) [![Github](https://img.shields.io/github/followers/jabahum?label=Follow&style=social)](https://github.com/jabahum)
 
-- I currently work with Javascript(Node.js|Typescript / nestjs,express,hapi,koa),Python(Flask) for everything web.
-- I work with (Kotlin/java) | Flutter(Dart) for everything mobile
+I’m a **full-stack developer** specializing in building scalable web and mobile applications for **health tech**, **finance**, and **community-focused platforms**.
+
+**🔹 Web:** JavaScript/TypeScript (Node.js — NestJS, Express, Hapi, Koa), Python (Flask)  
+**🔹 Mobile:** Kotlin & Java (native Android), Flutter (Dart)  
+**🔹 APIs:** REST, GraphQL, gRPC  
+**🔹 DevOps:** Docker, CI/CD pipelines, cloud deployments
+
+I’m passionate about designing secure, maintainable solutions that make a real-world impact — especially in digital health. I actively contribute to **OpenMRS**, supporting better healthcare through open-source technology.
+
+---
+
+### 🌱 Open to collaborating on:
+- Digital health solutions
+- Community platforms
+- Open-source projects
+
+### 🤝 Let’s connect!
+- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [Your Email]
+
+---
+
+*Building technology that matters.* 🚀
 
 
 ## My Socials:
